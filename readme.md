@@ -1,4 +1,4 @@
-<img align="right" height="300" width="310" src="/programming.gif" />
+<img align="right" height="300" width="310" src="pc.gif" />
 
 ## Olá, eu sou o Alexandre!
 
