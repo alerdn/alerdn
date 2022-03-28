@@ -7,15 +7,12 @@
 
 ##
 
-<div style="display: inline-block"><br>
-  <h2>Habilidades: </h2>
+<div style="display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />        
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div><br>
-
-[![card](https://github-readme-stats.vercel.app/api?username=alerdn&theme=dracula)](https://github.com/alerdn/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alerdn&layout=compact&theme=dracula)](https://github.com/alerdn)
 
