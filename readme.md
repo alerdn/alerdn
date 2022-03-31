@@ -3,7 +3,7 @@
 ## Olá, eu sou o Alexandre!
 
 -  🖥️ Trabalho como Desenvolvedor Nodejs na Play Serviços
--  🎮 Estudando Game Design e Programação Unity
+-  🎮 Estudando Game Design e Desenvolvimento Unity
 
 ##
 
