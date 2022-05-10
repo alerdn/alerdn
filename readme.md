@@ -2,8 +2,10 @@
 
 ## Olá, eu sou o Alexandre!
 
+-  🎈 Tenho 22 anos
+-  👨‍🎓 Sou Técnico de Informática e Graduando em Sistemas de Informação
 -  🖥️ Trabalho como Desenvolvedor Nodejs na Play Serviços
--  🎮 Estudando Game Design e Desenvolvimento Unity
+-  🎮 Estudo Game Design e Desenvolvimento Unity na EBAC
 
 ##
 
@@ -22,4 +24,3 @@
   
  <a href="mailto: alexandre.nascimento.ifms@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
  <a href="https://www.linkedin.com/in/alexandre-nascimento-84a7891b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://gitlab.com/alexandre.nascimento.ifms"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
