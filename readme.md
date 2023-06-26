@@ -2,7 +2,7 @@
 
 ## Olá, eu sou o Alexandre!
 
--  🎈 Tenho 22 anos
+-  🎈 Tenho 23 anos
 -  👨‍🎓 Sou Técnico de Informática e Graduando em Sistemas de Informação
 -  🖥️ Trabalho como Desenvolvedor Nodejs na Play Serviços
 -  🎮 Estudo Game Design e Desenvolvimento Unity na EBAC
