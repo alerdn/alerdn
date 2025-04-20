@@ -2,8 +2,8 @@
 
 ## Olá, eu sou o Alexandre!
 
--  🎈 Tenho 24 anos
--  👨‍🎓 Sou Bacharel em Sistemas de Informação e Pós-graduando em Jogos Digitais
+-  🎈 Tenho 25 anos
+-  👨‍🎓 Sou Bacharel em Sistemas de Informação e Pós-graduado em Jogos Digitais
 -  🖥️ Trabalho como Desenvolvedor Nodejs na Play Serviços
 -  🎮 Estudo desenvolvimento de jogos na Unreal Engine 5 e Unity 3D
 
