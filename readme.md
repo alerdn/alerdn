@@ -4,18 +4,18 @@
 
 -  🎈 Tenho 25 anos
 -  👨‍🎓 Sou Bacharel em Sistemas de Informação e Pós-graduado em Jogos Digitais
--  🖥️ Trabalho como Desenvolvedor Nodejs na Play Serviços
--  🎮 Estudo desenvolvimento de jogos na Unreal Engine 5 e Unity 3D
+-  🖥️ Trabalho como Desenvolvedor Nodejs criando soluções escaláveis e performáticas
+-  🎮 Estudo desenvolvimento de jogos na Unity 3D
 
 ##
 
 <div style="display: inline-block">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />        
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />        
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alerdn&layout=compact&theme=dracula)](https://github.com/alerdn)
